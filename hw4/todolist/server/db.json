@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "title": "React Hooks",
+      "description": "The greatest thing since sliced bread!",
+      "author": "Daniel Bugl",
+      "dateCreated": "10/1/2022, 1:23:45 PM",
+      "completed": true,
+      "id": 1,
+      "dateCompleted": "11/5/2023, 10:27:02 PM"
+    },
+    {
+      "title": "Using React Fragments",
+      "description": "Keeping the DOM tree clean!",
+      "author": "Daniel Bugl",
+      "dateCreated": "10/2/2022, 1:23:45 PM",
+      "completed": true,
+      "id": 2,
+      "dateCompleted": "11/5/2023, 10:27:03 PM"
+    },
+    {
+      "title": "React's New Context API",
+      "description": "A complete game changer!",
+      "author": "Daniel Bugl",
+      "dateCreated": "10/3/2022, 1:23:45 PM",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "new post",
+      "description": "some content",
+      "dateCreated": "10/4/2022, 1:23:45 PM",
+      "completed": false,
+      "author": "lewis",
+      "id": 4
+    },
+    {
+      "title": "new post",
+      "description": "some content",
+      "dateCreated": "10/5/2022, 1:23:45 PM",
+      "completed": false,
+      "author": "lewis",
+      "id": 5
+    },
+    {
+      "title": "bb",
+      "description": "aa",
+      "dateCreated": "11/5/2023, 10:27:17 PM",
+      "completed": false,
+      "author": "lqi7@depaul.edu",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "lqi7@depaul.edu",
+      "password": "$2a$10$87Y40/B/ivizWj0b7vVlcu/ue6sCYQSuGCAoTryGpUyxYATftdCOG",
+      "id": 1
+    },
+    {
+      "email": "lewis@tesla.com",
+      "password": "$2a$10$NuxYCLNMEbQQrY6Tg00cbeFQ17l8PtY/clZQOXGJLPG.rnt4W4t72",
+      "id": 2
+    },
+    {
+      "email": "max@tesla.com",
+      "password": "$2a$10$3AE9nBLjZ/A80vZnkdcJe.CLPOtrOefPDEj4Fp4cs4uptu15XEtAe",
+      "id": 3
+    },
+    {
+      "email": "testuser@depaul.edu",
+      "password": "$2a$10$xrYrbkhV3EQz9zmDi/BFHOIwLbPUIKVeQa3SBKzaiTQUrS1KJ/zR6",
+      "id": 4
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    },
+    {
+      "id": 2,
+      "primaryColor": "orchid",
+      "secondaryColor": "mediumseagreen"
+    }
+  ]
+}
